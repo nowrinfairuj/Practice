@@ -1,2 +1,2 @@
 # Practice
-nowrinfairuj.github.io/Practice/
+https://nowrinfairuj.github.io/Practice/
