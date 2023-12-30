@@ -1,2 +1,2 @@
 # Practice
-Html Home work
+nowrinfairuj.github.io/Practice/
